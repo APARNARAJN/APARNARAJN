@@ -14,8 +14,8 @@ Final-year CS student @ College of Engineering Attingal · Building things with 
 
 | Project | Description | Stack |
 |---|---|---|
-| [Jarvis AI Assistant](https://github.com/APARNARAJN/JARVIS) | Personal AI assistant with LLM integration, email AI, energy tracking, scroll interruption & rich CLI UI. 75-day build challenge. | Python · Ollama · LLM |
-| [Federated Learning — Heart Disease](https://github.com/APARNARAJN/federated-learning) | Privacy-preserving ML across 5 hospital clients. Custom weighted FedAvg using data size, balance & distribution similarity. 0.79 ROC-AUC. | PyTorch · Flower · Streamlit |
+| [Jarvis AI Assistant]([https://github.com/APARNARAJN/JARVIS](https://github.com/APARNARAJN/jarvis-ai-assistant)) | Personal AI assistant with LLM integration, email AI, energy tracking, scroll interruption & rich CLI UI. 75-day build challenge. | Python · Ollama · LLM |
+| [Federated Learning — Heart Disease]([https://github.com/APARNARAJN/federated-learning](https://github.com/APARNARAJN/Heart-disease-prediction-using-federated-learning)) | Privacy-preserving ML across 5 hospital clients. Custom weighted FedAvg using data size, balance & distribution similarity. 0.79 ROC-AUC. | PyTorch · Flower · Streamlit |
 | [Portfolio](https://github.com/APARNARAJN/portfolio) | Personal developer portfolio. | HTML · CSS ·  JavaScrip |
 
 ---
