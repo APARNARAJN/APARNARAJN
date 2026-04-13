@@ -14,9 +14,9 @@ Final-year CS student @ College of Engineering Attingal · Building things with 
 
 | Project | Description | Stack |
 |---|---|---|
-| [Jarvis AI Assistant]([https://github.com/APARNARAJN/JARVIS](https://github.com/APARNARAJN/jarvis-ai-assistant)) | Personal AI assistant with LLM integration, email AI, energy tracking, scroll interruption & rich CLI UI. 75-day build challenge. | Python · Ollama · LLM |
+| [Jarvis AI Assistant]([https://github.com/APARNARAJN/JARVIS](https://github.com/APARNARAJN/jarvis-ai-assistant)) | Personal AI assistant with LLM integration, email AI, energy tracking, scroll interruption. | Python · Ollama · LLM |
 | [Federated Learning — Heart Disease]([https://github.com/APARNARAJN/federated-learning](https://github.com/APARNARAJN/Heart-disease-prediction-using-federated-learning)) | Privacy-preserving ML across 5 hospital clients. Custom weighted FedAvg using data size, balance & distribution similarity. 0.79 ROC-AUC. | PyTorch · Flower · Streamlit |
-| [Portfolio](https://github.com/APARNARAJN/portfolio) | Personal developer portfolio. | HTML · CSS ·  JavaScrip |
+| [Portfolio](https://github.com/APARNARAJN/Portfolio-) | Personal developer portfolio. | HTML · CSS ·  JavaScrip |
 
 ---
 
@@ -32,4 +32,4 @@ Final-year CS student @ College of Engineering Attingal · Building things with 
 ## 🔗 connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aparna-raj-n-1198a7255/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link-here)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://aparnarajn.github.io/Portfolio-/)
