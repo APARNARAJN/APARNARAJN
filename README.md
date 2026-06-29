@@ -23,7 +23,7 @@ Final-year CS student @ College of Engineering Attingal · Building things with 
 ## 📌 about me
 
 - 🎓 B.Tech Computer Science, 2026 batch
-- 🔍 Actively looking for **SWE / AI-ML fresher roles** 
+- 🔍 Actively looking for **SWE / AI-ML / APM fresher roles** 
 - 🧠 Interested in agentic AI, product thinking, and building tools that are actually useful
 - 📍 Kerala, India
 
