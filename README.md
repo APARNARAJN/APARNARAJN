@@ -1,6 +1,6 @@
 # Hi, I'm Aparna 👋
 
-Final-year CS student @ College of Engineering Attingal · Building things with Python, React & LLMs
+BTech Computer Science Graduate · Building things with Python, React & LLMs
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
