@@ -16,7 +16,7 @@ BTech Computer Science Graduate · Building things with Python, React & LLMs
 |---|---|---|
 | [Jarvis AI Assistant](https://github.com/APARNARAJN/jarvis-ai-assistant) | Personal AI assistant with LLM integration, email AI, energy tracking, scroll interruption. | Python · Ollama · LLM |
 | [Federated Learning — Heart Disease](https://github.com/APARNARAJN/Heart-disease-prediction-using-federated-learning)| Privacy-preserving ML across 5 hospital clients. Custom weighted FedAvg using data size, balance & distribution similarity. 0.79 ROC-AUC. | PyTorch · Flower · Streamlit |
-| [Portfolio](https://github.com/APARNARAJN/Portfolio-) | Personal developer portfolio. | HTML · CSS ·  JavaScrip |
+| [Portfolio](https://github.com/APARNARAJN/Portfolio-) | Personal Product Manager portfolio. | HTML · CSS ·  JavaScrip |
 
 ---
 
