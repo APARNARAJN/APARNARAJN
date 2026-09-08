@@ -1,6 +1,7 @@
 # Hi, I'm Aparna 👋
 
 BTech Computer Science Graduate · Building things with Python, React & LLMs
+
 ![Product Management](https://img.shields.io/badge/Product%20Management-0052CC?style=flat&logo=jira&logoColor=white)
 ![Product Strategy](https://img.shields.io/badge/Product%20Strategy-FF6B6B?style=flat)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
